@@ -12,7 +12,7 @@
 
 ### daily xD:
 
-- 🏫 coding schools apps (Android + web)
+- 🏫 coding schools apps (android + web)
 - 🐧 fan Linux and terminal
 - 🚀 pet-projects one love
 
@@ -20,7 +20,7 @@
 
 ### 🛠 code:
 
-- 💚 kotlin / android (Compose, Coroutines, Ktor)
+- 💚 kotlin / android (compose, coroutines, ktor)
 - 🌐 javascript / TypeScript, Node.js
 - 🧱 html / css / a bit of React / Vue
 - 🐍 python
